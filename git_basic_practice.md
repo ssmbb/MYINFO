@@ -2,11 +2,11 @@
 
 ## 목차
 
-- Git이란?
-- Git 기본 명령어
-- 브랜치와 병합
-- GitHub 사용
-- 추가 리소스
+- [Git이란?](#git이란?)
+- [Git 기본 명령어](#git기본명령어)
+- [브랜치와 병합](#브랜치와병합)
+- [GitHub 사용](#GitHub사용)
+- [추가 리소스](#추가리소스)
 
 ## Git이란?
 
@@ -24,7 +24,9 @@
 
 ### 1. Git 저장소 초기화
 
-`git init`
+```
+git init
+```
 
 - 새로운 Git 저장소를 초기화합니다.
 
@@ -43,11 +45,11 @@ GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 �
 2. 새로운 리포지토리 생성
 3. 원격 저장소 연결:
 
-`git remote add origin <GitHub 저장소 URL>
-git push origin main`
+```git remote add origin <GitHub 저장소 URL>
+git push origin main
+```
 
-![Git 로고]
-(URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 ## 추가 리소스
 
