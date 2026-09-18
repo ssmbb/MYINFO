@@ -3,3 +3,7 @@
 =======
 #HM의 미니 홈페이지
 >>>>>>> parent of c19a875 (Merge branch 'main' of https://github.com/ssmbb/MYINFO)
+
+
+## 서비스 소개
+- 서비스 소개 페이지를 추가
